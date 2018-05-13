@@ -6,6 +6,12 @@
 
 ## Gradle project sync failed.
 
+Open or create an android project, you will see a tip says "Gradle projects need to be imported" with two choices ```Import Changes``` and ```Enable Auto-Import```.
+Click ```Import Changes```, and intelliJ IDEA will download the files of Gradle.
+
+But, in general, a error tip will appear in a while.
+It says "...Gradle project sync failed...", how to solve it?
+
 In ```1: Project``` panel, switch to ```Android``` view, and open ```gradle-wrapper.properties```:
 
 ``` INI
