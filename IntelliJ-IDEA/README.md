@@ -27,3 +27,7 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-4.1-all.zip
 So, go to ```%HOMEPATH%/.gradle/wrapper/dists/gradle-4.1-all/balabala/```, and we will found a .zip file and a .lck file here.
 Try extracting that .zip file, some errors will be occur.
 It meanings the compressed package is incomplete.
+
+## Reference
+
+* [Android Studio 首坑 Gradle sync failed: Cause: error in opening zip file 的错误 - 梁乔峰 - 博客园](https://www.cnblogs.com/maydear/p/6849745.html)
