@@ -42,4 +42,4 @@ solved.
 ## Reference
 
 * [Android Studio 首坑 Gradle sync failed: Cause: error in opening zip file 的错误 - 梁乔峰 - 博客园](https://www.cnblogs.com/maydear/p/6849745.html)
-* [](https://stackoverflow.com/a/36539783/9418981)
+* [java - IntelliJ Gradle Plugin: The supplied javaHome seems to be invalid - Stack Overflow](https://stackoverflow.com/a/36539783/9418981)
