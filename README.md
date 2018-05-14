@@ -2,14 +2,18 @@
 
 ## Download, Install & Configure
 
-#### ~Android Studio~
-
-Please wait.
-
 #### [Android SDK](./Android-SDK)
 
 Writing.
 
+#### ~Android Studio~
+
+Please wait.
+
 #### [IntelliJ IDEA](./IntelliJ-IDEA)
+
+Writing.
+
+#### [Visual Studio](./VS)
 
 Writing.
