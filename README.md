@@ -6,11 +6,7 @@
 
 Writing.
 
-#### ~Android Studio~
-
-Please wait.
-
-#### [IntelliJ IDEA](./IntelliJ-IDEA)
+#### Android Studio -> [IntelliJ IDEA](./IntelliJ-IDEA)
 
 Writing.
 
